@@ -27,3 +27,7 @@ This database acts as a CMS to populate the demo website Web Development WTF?
 ➡️ demo Website repository:  
 
 https://github.com/SteveHampson71/demo_website_Web_Development_WTF
+
+🌐 Live site:  
+
+https://stevehampson71.github.io/demo_website_Web_Development_WTF/
