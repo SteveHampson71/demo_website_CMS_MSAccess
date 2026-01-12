@@ -1,0 +1,7 @@
+<FTP_USERNAME>
+<FTP_PASSWORD>
+cd htdocs
+cd js
+put d:\DevSPH\Database\wdwtfdata.txt
+close
+quit
